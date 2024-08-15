@@ -26,24 +26,24 @@ For a detailed explanation of the architecture, refer to the `QuickFin_Final_Rep
 
 ## How to Run
 
-#### Clone the Repository:
+#### 1. Clone the Repository:
 ```bash
 clone https://github.com/nitant98/QuickFin
 ```
 
-#### Install Dependencies:
+#### 2. Install Dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-#### Run the Streamlit App:
+#### 3. Run the Streamlit App:
 ```bash
 streamlit run app.py
 ```
 
-#### Access the Streamlit Dashboard: Open a web browser and navigate to http://localhost:8501 to interact with the financial data analysis dashboard.
+#### 4. Access the Streamlit Dashboard: Open a web browser and navigate to http://localhost:8501 to interact with the financial data analysis dashboard.
 
-#### Run Evaluation
+#### 5. Run Evaluation
 ```bash
 python eval.py
 ```
