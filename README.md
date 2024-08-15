@@ -60,3 +60,7 @@ python eval.py
 ## Summary
 The architecture of QuickFin is designed to optimize the process of analyzing and extracting relevant information from large financial documents. By integrating document retrieval with advanced generative AI, the system provides users with reliable, contextually accurate answers, 
 making it a powerful tool for financial analysis. 
+
+## Contact Us
+Github - https://github.com/nitant98
+LinkedIn - https://www.linkedin.com/in/nitantjatale/
