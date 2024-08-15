@@ -22,7 +22,7 @@ The architecture of QuickFin is designed to efficiently handle large volumes of 
 4. **Query Handling via a QA Chain**
 5. **Response Generation with GPT-3.5-turbo**
 
-For a detailed explanation of the architecture, refer to the `QuickFin_Final_Report.docx`.
+For a detailed explanation of the architecture, refer to the `QuickFin_Final_Report.pdf`.
 
 ## How to Run
 
