@@ -16,6 +16,9 @@ QuickFin is a powerful, AI-driven financial document analysis tool that leverage
 
 The architecture of QuickFin is designed to efficiently handle large volumes of financial data, ensuring that users receive accurate and relevant information with minimal effort. The system's components include:
 
+
+![FinalProjectDiagram](https://github.com/user-attachments/assets/39ea47dd-7cc4-4bbd-ab3d-702f42331931)
+
 1. **Data Ingestion and Processing**
 2. **Text Chunking and Embedding**
 3. **Vector Store for Efficient Retrieval**
