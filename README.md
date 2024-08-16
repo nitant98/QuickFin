@@ -38,7 +38,11 @@ clone https://github.com/nitant98/QuickFin
 ```bash
 pip install -r requirements.txt
 ```
-
+#### 4. Add API Keys to .env File
+```bash
+OPENAI_API_KEY = ""
+gemini_api = ""
+```
 #### 3. Run the Streamlit App:
 ```bash
 streamlit run app.py
