@@ -54,10 +54,6 @@ streamlit run app.py
 ```bash
 python eval.py
 ```
-![Pdf1](https://github.com/user-attachments/assets/3982f870-ec3b-4da6-bb57-1b2ed9feb608)
-
-![pdf2](https://github.com/user-attachments/assets/81a68209-5260-4312-b1b3-a002f1fee49f)
-
 
 ## Insights
 1. **Revenue Growth Trends:** Understand the revenue growth trajectory of the analyzed company over the specified period.
